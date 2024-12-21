@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here, I showcase my projects and learning journey in the fields of electronics, embedded systems, telecommunications, and networking.  
 
-## 📚 Table of Contents  
+## 📚 Electronics and Telecommunications  
 - [Electronics](#electronics)  
 - [Computer Science – Embedded Systems](#computer-science--embedded-systems)  
 - [Telecommunications and Networks](#telecommunications-and-networks)  
